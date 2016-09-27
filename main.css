@@ -70,7 +70,7 @@ html, body, .main-wrapper, .main-message {
     position: absolute;
     left: 0;
     bottom: 0;
-    padding: .5em .75em;
+    padding: 2.5em .75em;
     text-align: center;
     width: 100%;
 }
