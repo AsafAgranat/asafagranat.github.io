@@ -63,6 +63,9 @@ html, body, .main-wrapper, .main-message {
     align-items: flex-end;
         justify-content: center;
         height: 40vh;
+    color: tomato;
+        mix-blend-mode: color;
+
 }
 .contact {    
     font-size: .7em;
