@@ -35,6 +35,8 @@ html, body, .main-wrapper, .main-message {
     display: table;
     text-align: center;
     color: white;
+        mix-blend-mode: color;
+    
     /*-webkit-background-clip: text;
   			-webkit-text-fill-color: transparent;*/
     
@@ -64,7 +66,6 @@ html, body, .main-wrapper, .main-message {
         justify-content: center;
         height: 40vh;
     color: tomato;
-        mix-blend-mode: color;
 
 }
 .contact {    
