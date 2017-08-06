@@ -73,7 +73,7 @@ html, body, .main-wrapper, .main-message {
     bottom: 0;
     display: flex;
     color: white;
-
+    letter-spacing: 0.05em;
 }
 
 .contact .inner {
