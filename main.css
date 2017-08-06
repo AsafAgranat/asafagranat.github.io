@@ -1,5 +1,6 @@
 html, body, .main-wrapper, .main-message {
-    font-family: monospace;
+    /*font-family: monospace;*/
+    font-family: "Nocturno Display Medium 4", Georgia;
     font-weight: 400;
     width: 100%;
     height: 100%;
