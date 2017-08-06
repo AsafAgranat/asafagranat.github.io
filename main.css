@@ -15,7 +15,7 @@ html, body, .main-wrapper, .main-message {
             box-sizing: border-box;
 }
 .main-wrapper {
-    background-image: url(images/static1.gif);
+    background-image: url(images/blobs1.gif);
     background-size: cover;
     background-repeat: no-repeat;
 }

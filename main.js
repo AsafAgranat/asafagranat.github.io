@@ -87,7 +87,8 @@
 	    }	    
 
 	    // change background image in intervals 
-	    var bg = ["static2", "static3", "static4", "static5", "static6", "static1"];
+	    // var bg = ["static2", "static3", "static4", "static5", "static6", "static1"];
+	    var bg = ["blobs1", "blobs2"];
 	    var bgCounter = 0;
 	    var bgElem1 = document.getElementById("changing-background1");
 	    // var bgElem2 = document.getElementById("changing-background2");
