@@ -48,7 +48,8 @@ body {
 .main-message2 {
     position: absolute;
     top: 0;
-    mix-blend-mode: color;  
+    mix-blend-mode: hard-light;
+    opacity: .7;
 }
 .main-message .words {
     display: table-cell;
