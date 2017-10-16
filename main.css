@@ -39,7 +39,7 @@ body {
     display: table;
     text-align: center;
     color: white;
-    mix-blend-mode: soft-light;    
+    mix-blend-mode: color;    
     background-size: cover;
     left: 0;
     font-family: "Nocturno Display Medium 4", Georgia;
