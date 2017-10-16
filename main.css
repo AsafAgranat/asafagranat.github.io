@@ -8,6 +8,9 @@ html, body, .main-wrapper, .main-message {
     padding: 0;
     overflow: hidden;
 }
+body {
+    background-color: #444;
+}
 *,
 :before,
 :after {
@@ -42,6 +45,11 @@ html, body, .main-wrapper, .main-message {
     font-family: "Nocturno Display Medium 4", Georgia;
 
 }
+.main-message2 {
+    position: absolute;
+    top: 0;
+    mix-blend-mode: color;  
+}
 .main-message .words {
     display: table-cell;
     /*vertical-align: middle;*/
@@ -59,6 +67,10 @@ html, body, .main-wrapper, .main-message {
     height: 40vh;
     color: tomato;
 
+}
+.main-message2 .words {
+    text-shadow: 1px 1px white, 1px -1px white, -1px -1px white, -1px 1px white;
+    color: #444;
 }
 .contact {    
     font-size: 14px;
