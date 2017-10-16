@@ -65,11 +65,11 @@ body {
     align-items: flex-end;
     justify-content: center;
     height: 40vh;
-    color: tomato;
+    color: #ff7e66;
 
 }
 .main-message2 .words {
-    text-shadow: 1px 1px white, 1px -1px white, -1px -1px white, -1px 1px white;
+    text-shadow: 1px 1px white, 1px -1px white, -1px -1px white, -1px 1px white, 0px 0px 30px #000, 0px 0px 20px #000;
     color: #444;
     opacity: .7;
 }
