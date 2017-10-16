@@ -49,7 +49,6 @@ body {
     position: absolute;
     top: 0;
     mix-blend-mode: hard-light;
-    opacity: .7;
 }
 .main-message .words {
     display: table-cell;
@@ -72,6 +71,7 @@ body {
 .main-message2 .words {
     text-shadow: 1px 1px white, 1px -1px white, -1px -1px white, -1px 1px white;
     color: #444;
+    opacity: .7;
 }
 .contact {    
     font-size: 14px;
