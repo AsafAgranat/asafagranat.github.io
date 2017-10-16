@@ -103,7 +103,6 @@ body {
 
 	/* Color fallback */	
 	color: #fff;
-
 	
 }
 .contact .inner a {
@@ -114,7 +113,6 @@ body {
 }
 
 .contact .inner a:hover {	
-	background: tomato;
 	color: white;
     text-decoration: none;
     background: rgba(123, 37, 10, 0.57);
