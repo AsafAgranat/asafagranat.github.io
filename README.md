@@ -1,2 +1,4 @@
 # asafagranat.com
-Asaf Agranat's pages on Gihub
+
+Asaf Agranat's pages on Github
+
