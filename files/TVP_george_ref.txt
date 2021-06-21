@@ -1,4 +1,4 @@
-<p class="code"><a href="#tv_camerainfo"><span class="george-function">tv_camerainfo</span></a> [iWidth iHeight [0|1|2|"none"|"lower"|"upper" [iFrameRate [iPixelAspectRatio]]]]
+<a href="#tv_camerainfo"><span class="george-function">tv_camerainfo</span></a> [iWidth iHeight [0|1|2|"none"|"lower"|"upper" [iFrameRate [iPixelAspectRatio]]]]
 <a href="#tv_cameraenumpoints"><span class="george-function">tv_cameraenumpoints</span></a> iIndex
 <a href="#tv_camerapath"><span class="george-function">tv_camerapath</span></a> ["mode" 0|1|2] ["profile" '"'iCount iCurrent 0|1|2 iX1 iY1 iX2 iY2 ... iXn iYn'"'] ["motionblur" 0.0-1.0] ["lockall" 0|1] ["lockx" 0|1] ["locky" 0|1] ["lockangle" 0|1] ["lockscale" 0|1]
 <a href="#tv_camerainterpolation"><span class="george-function">tv_camerainterpolation</span></a> 0.0-1.0
@@ -14886,4 +14886,4 @@ iOverlay        int     The overlay (not used ?)
 
 ------------------------------------------------------------------------------------------------------
 
-</p>
+
